@@ -1,0 +1,18 @@
+<html>
+<body>	
+<style type="text/css">
+		body,html{
+			matgin:0px;
+		}
+		input[type="button"]{
+			border:none;
+			width:100%;
+			outline: none;
+		}
+		#ide
+		{
+			margin:10%;
+		}
+	</style>
+</body>
+</html>
